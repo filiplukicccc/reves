@@ -1,0 +1,41 @@
+.homeHolding {
+    background-image: url('../../images/vienna.jpg');
+    height: 600px;
+    background-size: cover;
+    background-position: 50% 24%;
+    background-repeat: no-repeat;
+    width: 100%;
+    position: relative;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.homeHolding h1 {
+    font-size: 45px;
+    font-weight: 500;
+    z-index: 1;
+}
+.homeText {
+    margin-bottom: 80px;
+}
+.flatDiv {
+    display: flex!important;
+    justify-content: center!important;
+    align-items: center!important;
+}
+.flatBack {
+    width: 260px;
+    height: 340px;
+    background: #f1f1f1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    margin-bottom: 80px;
+}
+.partners {
+    margin-bottom: 80px;
+}
